@@ -114,3 +114,7 @@ To **decrypt a file as a Data User**:
 4. The decrypted file will be saved in your specified output directory.
 
 **Example Command:**
+![image](https://github.com/user-attachments/assets/7e64c052-d439-44de-82d8-1a0e73c458cd)
+![image](https://github.com/user-attachments/assets/e8e5fcb7-5a7a-4804-a025-7f5ee8192f4b)
+
+
