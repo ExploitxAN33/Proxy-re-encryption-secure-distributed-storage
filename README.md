@@ -116,5 +116,10 @@ To **decrypt a file as a Data User**:
 **Example Command:**
 ![image](https://github.com/user-attachments/assets/7e64c052-d439-44de-82d8-1a0e73c458cd)
 ![image](https://github.com/user-attachments/assets/e8e5fcb7-5a7a-4804-a025-7f5ee8192f4b)
+![image](https://github.com/user-attachments/assets/75edb986-16de-4149-bb5f-b300e7ac5ad0)
+![image](https://github.com/user-attachments/assets/11710519-33f0-4043-a59b-18dfe5bc380c)
+![image](https://github.com/user-attachments/assets/d7b324ea-37b6-4421-a83b-a49b95ec9949)
+
+
 
 
