@@ -41,7 +41,7 @@ int main(int argc, char* argv[]) {
 
     // Wait for data owner to process
     std::cout << "Waiting for data owner to encrypt data..." << std::endl;
-    sleep(5);  // Give time for data owner to run
+    sleep(10);  // Give time for data owner to run
 
     // Reconnect to request re-encrypted ciphertext
     TCPClient client2(server_ip, 8080);
