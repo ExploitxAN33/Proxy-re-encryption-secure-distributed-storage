@@ -48,8 +48,8 @@ int main() {
             printf("send public key to data_owner %lf  time\n", cpu_time_used);
             send_element(client_fd, pk_user);
             std::cout << "Sent user public key to requester" << std::endl;
-            std::cout << "Waiting 5 seconds for data owner..." << std::endl;
-            sleep(5);
+            std::cout << "Waiting 10 seconds for data owner..." << std::endl;
+            sleep(10);
         }
         else if (strcmp(command, "UPLOAD_KEY") == 0) {
             char user_id[50] = {0};
