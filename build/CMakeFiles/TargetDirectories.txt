@@ -1,0 +1,5 @@
+/home/ananta/newcpp/build/CMakeFiles/cloud_server.dir
+/home/ananta/newcpp/build/CMakeFiles/data_owner.dir
+/home/ananta/newcpp/build/CMakeFiles/data_user.dir
+/home/ananta/newcpp/build/CMakeFiles/edit_cache.dir
+/home/ananta/newcpp/build/CMakeFiles/rebuild_cache.dir
