@@ -1,4 +1,4 @@
-# Proxy-re-encryption-secure-distributed-storage (Alice-Bob)
+# Proxy-re-encryption-secure-communication-cloud-computing (Alice-Bob)
 
 A secure, distributed storage system using proxy re-encryption and TCP connections.  
 **Roles:** Cloud Server, Data User, Data Owner.
