@@ -13,8 +13,6 @@ A secure, distributed storage system using proxy re-encryption and TCP connectio
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Decryption Guide](#decryption-guide)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
