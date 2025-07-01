@@ -57,11 +57,11 @@ This project implements a secure distributed storage system using proxy re-encry
     ```
 
 2. **Install dependencies:**
-    - On Ubuntu/Debian:
-        ```
-        sudo apt-get update
-        sudo apt-get install build-essential cmake libssl-dev
-        ```
+    On Ubuntu/Debian:
+   ```
+     sudo apt-get update
+     sudo apt-get install build-essential cmake libssl-dev
+   ```
 
 3. **Build the project:**
     ```
